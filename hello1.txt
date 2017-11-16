@@ -1,1 +1,8 @@
-beforecommit
+A = [0,0]
+B = [10,10]
+c = [21,21]
+D = [33,33]
+E = [5,27]
+F = [28,6]
+allpoints = [A,B,C,D,E,F]
+for point in allpoints:
